@@ -9,3 +9,6 @@ its free! all you have to do is go to https://aistudio.google.com/apikey and sig
 
 # Worried about the security of your API key?
 the api key is securely stored in a txt file in C:Users\YOU\OneDrive\Documents\assistant\src
+
+# DEPENDENCIES: NONE
+the installer installs python if you don't have it, along with all the neccissary modules either way!
